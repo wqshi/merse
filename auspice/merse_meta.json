@@ -1,0 +1,600 @@
+{
+  "annotations": {
+    "G128_gp01": {
+      "end": 21514,
+      "start": 278,
+      "strand": 1
+    },
+    "G128_gp02": {
+      "end": 25517,
+      "start": 21455,
+      "strand": 1
+    },
+    "G128_gp03": {
+      "end": 25843,
+      "start": 25531,
+      "strand": 1
+    },
+    "G128_gp04": {
+      "end": 26181,
+      "start": 25851,
+      "strand": 1
+    },
+    "G128_gp05": {
+      "end": 26833,
+      "start": 26092,
+      "strand": 1
+    },
+    "G128_gp06": {
+      "end": 27514,
+      "start": 26839,
+      "strand": 1
+    },
+    "G128_gp07": {
+      "end": 27838,
+      "start": 27589,
+      "strand": 1
+    },
+    "G128_gp08": {
+      "end": 28512,
+      "start": 27852,
+      "strand": 1
+    },
+    "G128_gp09": {
+      "end": 29807,
+      "start": 28565,
+      "strand": 1
+    },
+    "G128_gp10": {
+      "end": 29100,
+      "start": 28761,
+      "strand": 1
+    },
+    "nuc": {
+      "end": 30119,
+      "start": 0,
+      "strand": 1
+    }
+  },
+  "author_info": {
+    "Camel": {
+      "n": 238
+    },
+    "Homo sapiens": {
+      "n": 252
+    },
+    "Lama glama": {
+      "n": 1
+    }
+  },
+  "color_options": {
+    "authors": {
+      "key": "authors",
+      "legendTitle": "Host",
+      "menuItem": "Host",
+      "type": "discrete"
+    },
+    "country": {
+      "color_map": [
+        [
+          "Riyadh",
+          "#511EA8"
+        ],
+        [
+          "AlArtawiyah",
+          "#4C23AE"
+        ],
+        [
+          "Jordan",
+          "#4829B5"
+        ],
+        [
+          "Jeddah",
+          "#4430BC"
+        ],
+        [
+          "Seoul",
+          "#4238C1"
+        ],
+        [
+          "AbuDhabi",
+          "#403FC6"
+        ],
+        [
+          "Daejeon",
+          "#3F48C9"
+        ],
+        [
+          "Kharj",
+          "#3F50CC"
+        ],
+        [
+          "Khobar",
+          "#3F58CE"
+        ],
+        [
+          "Hufuf",
+          "#3F60CF"
+        ],
+        [
+          "Dubai",
+          "#4069CE"
+        ],
+        [
+          "Chicago",
+          "#4170CD"
+        ],
+        [
+          "Pyeongtaek",
+          "#4278CD"
+        ],
+        [
+          "Shenzhen",
+          "#457EC9"
+        ],
+        [
+          "Munich",
+          "#4785C6"
+        ],
+        [
+          "Al-Hasa",
+          "#498BC2"
+        ],
+        [
+          "SaudiArabia",
+          "#4C91BE"
+        ],
+        [
+          "Qatar",
+          "#4F96BA"
+        ],
+        [
+          "UmmAlQuwain",
+          "#55A0AF"
+        ],
+        [
+          "Taif",
+          "#59A4A8"
+        ],
+        [
+          "AlBatnah",
+          "#5DA7A2"
+        ],
+        [
+          "AlDahkliya",
+          "#61AA9B"
+        ],
+        [
+          "Birmingham",
+          "#65AD95"
+        ],
+        [
+          "Florida",
+          "#6AB08F"
+        ],
+        [
+          "Doha",
+          "#6EB288"
+        ],
+        [
+          "England",
+          "#73B582"
+        ],
+        [
+          "Buraidah",
+          "#78B67C"
+        ],
+        [
+          "HafrAlBatin",
+          "#7EB875"
+        ],
+        [
+          "Bisha",
+          "#83BA70"
+        ],
+        [
+          "WadiAdDawasir",
+          "#91BC65"
+        ],
+        [
+          "Valenciennes",
+          "#A2BD57"
+        ],
+        [
+          "Amibara",
+          "#A9BD52"
+        ],
+        [
+          "Garissa",
+          "#B0BC4E"
+        ],
+        [
+          "TanaRiver",
+          "#B5BC4B"
+        ],
+        [
+          "Aseer",
+          "#C0BA46"
+        ],
+        [
+          "AlAin",
+          "#C6B844"
+        ],
+        [
+          "Silaa",
+          "#CBB742"
+        ],
+        [
+          "WesternRegion",
+          "#D0B440"
+        ],
+        [
+          "UnitedArabEmirates",
+          "#D4B13F"
+        ],
+        [
+          "Amman",
+          "#D8AD3D"
+        ],
+        [
+          "Dakhelyia",
+          "#DBA93C"
+        ],
+        [
+          "Qasim",
+          "#E09F3A"
+        ],
+        [
+          "Madinah",
+          "#E39A38"
+        ],
+        [
+          "Albaha",
+          "#E49337"
+        ],
+        [
+          "Qaseem",
+          "#E68C35"
+        ],
+        [
+          "Tabuk",
+          "#E68434"
+        ],
+        [
+          "Northern",
+          "#E67C32"
+        ],
+        [
+          "Najran",
+          "#E67431"
+        ],
+        [
+          "Ethiopia",
+          "#E1562B"
+        ],
+        [
+          "Egypt",
+          "#DF4227"
+        ],
+        [
+          "NileDeltaregion",
+          "#DD3825"
+        ]
+      ],
+      "key": "country",
+      "legendTitle": "Province",
+      "menuItem": "province",
+      "type": "discrete"
+    },
+    "gt": {
+      "key": "genotype",
+      "legendTitle": "Genotype",
+      "menuItem": "genotype",
+      "type": "discrete"
+    },
+    "num_date": {
+      "key": "num_date",
+      "legendTitle": "Sampling date",
+      "menuItem": "date",
+      "type": "continuous"
+    },
+    "region": {
+      "color_map": [
+        [
+          "China",
+          "#55A0AF"
+        ],
+        [
+          "SaudiArabia",
+          "#511EA8"
+        ],
+        [
+          "Jordan",
+          "#4236C0"
+        ],
+        [
+          "SouthKorea",
+          "#3F55CD"
+        ],
+        [
+          "UnitedArabEmirates",
+          "#4273CD"
+        ],
+        [
+          "USA",
+          "#4A8CC2"
+        ],
+        [
+          "Germany",
+          "#64AD96"
+        ],
+        [
+          "Qatar",
+          "#76B67E"
+        ],
+        [
+          "Oman",
+          "#98BC5F"
+        ],
+        [
+          "UnitedKingdom",
+          "#B6BC4B"
+        ],
+        [
+          "France",
+          "#CBB742"
+        ],
+        [
+          "Ethiopia",
+          "#DBAA3C"
+        ],
+        [
+          "Kenya",
+          "#E49637"
+        ],
+        [
+          "Egypt",
+          "#DC2F24"
+        ]
+      ],
+      "key": "region",
+      "legendTitle": "Country",
+      "menuItem": "country",
+      "type": "discrete"
+    }
+  },
+  "defaults": {
+    "mapTriplicate": true
+  },
+  "filters": [
+    "country",
+    "region",
+    "authors"
+  ],
+  "geo": {
+    "country": {
+      "AbuDhabi": {
+        "latitude": 24.466667,
+        "longitude": 54.366667
+      },
+      "Al-Hasa": {
+        "latitude": 25.429444,
+        "longitude": 49.621944
+      },
+      "AlAin": {
+        "latitude": 24.2075,
+        "longitude": 55.744722
+      },
+      "AlArtawiyah": {
+        "latitude": 26.509766,
+        "longitude": 45.350168
+      },
+      "AlBatnah": {
+        "latitude": 23.390833,
+        "longitude": 57.424444
+      },
+      "AlDahkliya": {
+        "latitude": 22.0,
+        "longitude": 57.0
+      },
+      "Albaha": {
+        "latitude": 20.0,
+        "longitude": 41.45
+      },
+      "Amibara": {
+        "latitude": 9.666667,
+        "longitude": 40.333333
+      },
+      "Amman": {
+        "latitude": 31.949722,
+        "longitude": 35.932778
+      },
+      "Aseer": {
+        "latitude": 19.0,
+        "longitude": 43.0
+      },
+      "Birmingham": {
+        "latitude": 52.483056,
+        "longitude": -1.893611
+      },
+      "Bisha": {
+        "latitude": 20.000128,
+        "longitude": 42.602921
+      },
+      "Buraidah": {
+        "latitude": 26.333333,
+        "longitude": 43.966667
+      },
+      "Chicago": {
+        "latitude": 41.836944,
+        "longitude": -87.684722
+      },
+      "Daejeon": {
+        "latitude": 36.382565,
+        "longitude": 127.41656
+      },
+      "Dakhelyia": {
+        "latitude": 22.0,
+        "longitude": 57.0
+      },
+      "Doha": {
+        "latitude": 25.286667,
+        "longitude": 51.533333
+      },
+      "Dubai": {
+        "latitude": 25.263056,
+        "longitude": 55.297222
+      },
+      "Egypt": {
+        "latitude": 26.0,
+        "longitude": 30.0
+      },
+      "England": {
+        "latitude": 51.5,
+        "longitude": -0.116667
+      },
+      "Ethiopia": {
+        "latitude": 8.0,
+        "longitude": 38.0
+      },
+      "Florida": {
+        "latitude": 28.1,
+        "longitude": -81.6
+      },
+      "Garissa": {
+        "latitude": -0.456944,
+        "longitude": 39.658333
+      },
+      "HafrAlBatin": {
+        "latitude": 28.359522,
+        "longitude": 45.942012
+      },
+      "Hufuf": {
+        "latitude": 25.383333,
+        "longitude": 49.583333
+      },
+      "Jeddah": {
+        "latitude": 21.543489,
+        "longitude": 39.172989
+      },
+      "Jordan": {
+        "latitude": 31.24,
+        "longitude": 36.51
+      },
+      "Kharj": {
+        "latitude": 24.148333,
+        "longitude": 47.305
+      },
+      "Khobar": {
+        "latitude": 26.218287,
+        "longitude": 50.196533
+      },
+      "Madinah": {
+        "latitude": 24.926662,
+        "longitude": 39.957156
+      },
+      "Munich": {
+        "latitude": 48.133333,
+        "longitude": 11.566667
+      },
+      "Najran": {
+        "latitude": 18.23764,
+        "longitude": 45.61175
+      },
+      "NileDeltaregion": {
+        "latitude": 26.0,
+        "longitude": 30.0
+      },
+      "Northern": {
+        "latitude": 29.0,
+        "longitude": 41.0
+      },
+      "Pyeongtaek": {
+        "latitude": 37.007701,
+        "longitude": 126.999369
+      },
+      "Qaseem": {
+        "latitude": 25.8063,
+        "longitude": 42.8732
+      },
+      "Qasim": {
+        "latitude": 25.8063,
+        "longitude": 42.8732
+      },
+      "Qatar": {
+        "latitude": 25.5,
+        "longitude": 51.25
+      },
+      "Riyadh": {
+        "latitude": 24.6257,
+        "longitude": 46.708073
+      },
+      "SaudiArabia": {
+        "latitude": 24.0,
+        "longitude": 45.0
+      },
+      "Seoul": {
+        "latitude": 37.554493,
+        "longitude": 126.95169
+      },
+      "Shenzhen": {
+        "latitude": 22.671015,
+        "longitude": 114.159327
+      },
+      "Silaa": {
+        "latitude": 24.077222,
+        "longitude": 51.763056
+      },
+      "Tabuk": {
+        "latitude": 28.397222,
+        "longitude": 36.578889
+      },
+      "Taif": {
+        "latitude": 21.433333,
+        "longitude": 40.35
+      },
+      "TanaRiver": {
+        "latitude": -2.599006,
+        "longitude": 40.338621
+      },
+      "UmmAlQuwain": {
+        "latitude": 25.986389,
+        "longitude": 55.94
+      },
+      "UnitedArabEmirates": {
+        "latitude": 24.0,
+        "longitude": 54.0
+      },
+      "Valenciennes": {
+        "latitude": 50.375363,
+        "longitude": 3.511128
+      },
+      "WadiAdDawasir": {
+        "latitude": 20.464444,
+        "longitude": 44.787222
+      },
+      "WesternRegion": {
+        "latitude": 24.0,
+        "longitude": 52.0
+      }
+    },
+    "region": {
+      "China": {
+        "latitude": 35.000074,
+        "longitude": 104.999927
+      }
+    }
+  },
+  "maintainer": [
+    "Trevor Bedford",
+    "http://bedford.io/team/trevor-bedford/"
+  ],
+  "panels": [
+    "tree",
+    "map",
+    "entropy"
+  ],
+  "title": "Real-time tracking of MERS-CoV virus evolution",
+  "updated": "25 Aug 2020",
+  "virus_count": 489
+}
